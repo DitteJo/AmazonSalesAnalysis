@@ -15,6 +15,8 @@ Link: https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset/data
 
 ### Assumptions & Data Decisions
 - Orders with a status of 'Cancelled' or 'Returned' were excluded from all revenue and sales analysis, as these orders did not represent realized revenue.
+- Discount column is a decimal not a percentage
+- Verified that TotalAmount column = (Quantity x UnitPrice x(1 - Discount)) + Tax + ShippingCost
 
 ### Tools Used
 SQL Server, SSMS, Tableau
