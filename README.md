@@ -47,3 +47,14 @@ SQL Server, SSMS, Tableau
 - The overall cancellation rate was 3.03%
 - The electronics category had the highest cancellation rate at 3.23%
 - Indiana had the highest cancellation rate at 3.56%
+
+### Conclusions
+Revenue and units sold were evenly distributed across categories and states, wih no segment dramatically outperforming others. Texas led in total revenue but at the same average order value as lower performing states, this indicates volume rather than higher spending drives geographic differences. 
+
+The overall sales remained stable across all five years with minimal growth (average MoM growth of 0.02%), this suggests a consistent market with no strong seasonal patterns outside of a recurring dip in February and a rebound in March. 
+
+Discounting was associated with lower average order values across all tiers, with heavily discounted orders averaging 25% less than non-discounted orders. This suggests discounts to not drive larger purchases.
+
+The overall cancellation rate was lowe at 3.03%, this indicates a generally good order fulfillment across all categories and states.
+
+NOTE: The consistency observed across all dimensions is consistent with the synthetic nature of this dataset
